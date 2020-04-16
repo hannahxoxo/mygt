@@ -1,0 +1,2 @@
+# mygt
+First of Git
